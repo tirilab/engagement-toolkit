@@ -1,5 +1,7 @@
 # Engagement Toolkit (EKiT) Project
-Making digital engagement products discoverable and deployable
+Making digital engagement products discoverable and deployable.
+
+## Project Description
 
 We have begun to create strategies and tools to enable capturing the effectiveness of digital engagement products and the dissemination of those products. 
 
