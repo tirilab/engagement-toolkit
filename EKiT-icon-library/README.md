@@ -10,4 +10,4 @@ We provide access to a preview of the icons. For those interested in using the i
 
 ## Preview of Icons on an iPad
 
-![Icons](/images/icon-ipad-kiosk.png)
+![Icons](https://github.com/translational-informatics/engagement-toolkit/tree/master/EKiT-icon-library/images/icon-ipad-kiosk.png)
